@@ -1,0 +1,56 @@
+/* Reused some code from the main.css used throughout the class */
+nav {
+    background-color: black;
+    width: 100%;
+    position: justify;
+    top: 0;
+}
+nav ul {display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: -moz-fit-content;
+    max-width: fit-content;
+    margin: 0 auto;
+}
+
+
+nav ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+nav ul li a:hover {
+    background-color: #efefef;
+    color: black;
+}
+.calculator {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input, button {
+    padding: 5px;
+    margin: 5px;
+}
+
+button {
+    background-color: #0074d9;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+body {
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+

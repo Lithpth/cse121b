@@ -1,0 +1,207 @@
+[
+    {
+        "Width": 720,
+        "Height": 480,
+        "Aspect Ratio": "04:03",
+        "Standard": "480p (SD)"
+    },
+    {
+        "Width": 1280,
+        "Height": 720,
+        "Aspect Ratio": "16:09",
+        "Standard": "720p (HD)"
+    },
+    {
+        "Width": 1920,
+        "Height": 1080,
+        "Aspect Ratio": "16:09",
+        "Standard": "1080p (Full HD)"
+    },
+    {
+        "Width": 2560,
+        "Height": 1440,
+        "Aspect Ratio": "16:09",
+        "Standard": "1440p (Quad HD)"
+    },
+    {
+        "Width": 3840,
+        "Height": 2160,
+        "Aspect Ratio": "16:09",
+        "Standard": "2160p (4K UHD)"
+    },
+    {
+        "Width": 5120,
+        "Height": 2880,
+        "Aspect Ratio": "16:09",
+        "Standard": "2880p (5K)"
+    },
+    {
+        "Width": 3440,
+        "Height": 1440,
+        "Aspect Ratio": "21:09",
+        "Standard": "Ultrawide 3440x1440"
+    },
+    {
+        "Width": 2560,
+        "Height": 1600,
+        "Aspect Ratio": "16:10",
+        "Standard": "2560x1600 (WQXGA)"
+    },
+    {
+        "Width": 1920,
+        "Height": 1200,
+        "Aspect Ratio": "16:10",
+        "Standard": "1920x1200 (WUXGA)"
+    },
+    {
+        "Width": 1680,
+        "Height": 1050,
+        "Aspect Ratio": "16:10",
+        "Standard": "1680x1050 (WSXGA+)"
+    },
+    {
+        "Width": 1440,
+        "Height": 900,
+        "Aspect Ratio": "16:10",
+        "Standard": "1440x900 (WXGA+)"
+    },
+    {
+        "Width": 1280,
+        "Height": 800,
+        "Aspect Ratio": "16:10",
+        "Standard": "1280x800 (WXGA)"
+    },
+    {
+        "Width": 2560,
+        "Height": 1080,
+        "Aspect Ratio": "32:09:00",
+        "Standard": "Super Ultrawide 2560x1080"
+    },
+    {
+        "Width": 3840,
+        "Height": 1080,
+        "Aspect Ratio": "32:09:00",
+        "Standard": "Dual Ultrawide 3840x1080"
+    },
+    {
+        "Width": 3840,
+        "Height": 1200,
+        "Aspect Ratio": "32:10:00",
+        "Standard": "Dual Widescreen 3840x1200"
+    },
+    {
+        "Width": 5120,
+        "Height": 1440,
+        "Aspect Ratio": "32:09:00",
+        "Standard": "Dual Super Ultrawide 5120x1440"
+    },
+    {
+        "Width": 5120,
+        "Height": 1600,
+        "Aspect Ratio": "32:10:00",
+        "Standard": "Dual Ultrawide 5120x1600"
+    },
+    {
+        "Width": 5760,
+        "Height": 1080,
+        "Aspect Ratio": "48:09:00",
+        "Standard": "Triple Ultrawide 5760x1080"
+    },
+    {
+        "Width": 5120,
+        "Height": 2160,
+        "Aspect Ratio": "21:09",
+        "Standard": "Ultrawide 5120x2160"
+    },
+    {
+        "Width": 7680,
+        "Height": 4320,
+        "Aspect Ratio": "16:09",
+        "Standard": "4320p (8K UHD)"
+    },
+    {
+        "Width": 10240,
+        "Height": 4320,
+        "Aspect Ratio": "21:09",
+        "Standard": "10240x4320 (10K)"
+    },
+    {
+        "Width": 1280,
+        "Height": 1024,
+        "Aspect Ratio": "05:04",
+        "Standard": "1280x1024 (SXGA)"
+    },
+    {
+        "Width": 1280,
+        "Height": 768,
+        "Aspect Ratio": "05:03",
+        "Standard": "1280x768 (WXGA)"
+    },
+    {
+        "Width": 1600,
+        "Height": 900,
+        "Aspect Ratio": "16:09",
+        "Standard": "1600x900 (HD+)"
+    },
+    {
+        "Width": 2048,
+        "Height": 1152,
+        "Aspect Ratio": "16:09",
+        "Standard": "2048x1152 (QWXGA)"
+    },
+    {
+        "Width": 640,
+        "Height": 480,
+        "Aspect Ratio": "04:03",
+        "Standard": "640x480 (VGA)"
+    },
+    {
+        "Width": 800,
+        "Height": 600,
+        "Aspect Ratio": "04:03",
+        "Standard": "800x600 (SVGA)"
+    },
+    {
+        "Width": 1024,
+        "Height": 768,
+        "Aspect Ratio": "04:03",
+        "Standard": "1024x768 (XGA)"
+    },
+    {
+        "Width": 1280,
+        "Height": 960,
+        "Aspect Ratio": "04:03",
+        "Standard": "1280x960 (SXGA-)"
+    },
+    {
+        "Width": 1600,
+        "Height": 1200,
+        "Aspect Ratio": "04:03",
+        "Standard": "1600x1200 (UXGA)"
+    },
+    {
+        "Width": 2048,
+        "Height": 1536,
+        "Aspect Ratio": "04:03",
+        "Standard": "2048x1536 (QXGA)"
+    },
+    {
+        "Width": 2560,
+        "Height": 1920,
+        "Aspect Ratio": "04:03",
+        "Standard": "2560x1920 (QSXGA)"
+    },
+    {
+        "Width": 3072,
+        "Height": 2304,
+        "Aspect Ratio": "04:03",
+        "Standard": "3072x2304 (3MP)"
+    },
+    {
+        "Width": 4096,
+        "Height": 3072,
+        "Aspect Ratio": "04:03",
+        "Standard": "4096x3072 (12MP)"
+    }
+
+]
